@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<ArrayOfIssue xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Issue>
+    <Id>30d40c4e-1f29-4dff-a09b-2c861d0bfcdb</Id>
+    <DateReported>2025-11-12T07:19:38.7956898+02:00</DateReported>
+    <Province>Gauteng</Province>
+    <City>Johannesburg</City>
+    <Area>Sandton</Area>
+    <Category>🚧 Road Damage</Category>
+    <Description>rrrr</Description>
+    <AttachedFiles />
+    <UserId>Lungisani</UserId>
+    <SubmittedDate>2025-11-12T07:19:38.7956898+02:00</SubmittedDate>
+  </Issue>
+  <Issue>
+    <Id>896a8033-2120-42f4-9ec9-8803581e16ff</Id>
+    <DateReported>2025-11-12T08:17:03.3365198+02:00</DateReported>
+    <Province>Gauteng</Province>
+    <City>Johannesburg</City>
+    <Area>Sandton</Area>
+    <Category>🚧 Road Damage</Category>
+    <Description>road damag</Description>
+    <AttachedFiles>
+      <string>C:\Users\davyc\source\repos\MunicipalServicesApp\bin\Debug\Reports\Media\97937b96413049ca82e2e63c472f0048_1.png</string>
+    </AttachedFiles>
+    <UserId>Lungisani</UserId>
+    <SubmittedDate>2025-11-12T08:17:03.3365198+02:00</SubmittedDate>
+  </Issue>
+  <Issue>
+    <Id>fdb789c8-997f-4b05-9a3f-0e4af351a1d2</Id>
+    <DateReported>2025-11-12T08:18:08.9055665+02:00</DateReported>
+    <Province>KwaZulu-Natal</Province>
+    <City>Durban</City>
+    <Area>Berea</Area>
+    <Category>🗑 Waste Management</Category>
+    <Description>sewage</Description>
+    <AttachedFiles />
+    <UserId>Lungisani</UserId>
+    <SubmittedDate>2025-11-12T08:18:08.9055665+02:00</SubmittedDate>
+  </Issue>
+  <Issue>
+    <Id>a1557091-289f-4da4-ad91-07b751beeb4b</Id>
+    <DateReported>2025-11-12T08:18:29.8934848+02:00</DateReported>
+    <Province>KwaZulu-Natal</Province>
+    <City>Durban</City>
+    <Area>Berea</Area>
+    <Category>💧 Water Supply</Category>
+    <Description>no water</Description>
+    <AttachedFiles />
+    <UserId>Lungisani</UserId>
+    <SubmittedDate>2025-11-12T08:18:29.8934848+02:00</SubmittedDate>
+  </Issue>
+  <Issue>
+    <Id>6c3adebe-d1ff-411d-8bff-12dfeb25ebc5</Id>
+    <DateReported>2025-11-12T08:18:44.9006802+02:00</DateReported>
+    <Province>KwaZulu-Natal</Province>
+    <City>Durban</City>
+    <Area>Berea</Area>
+    <Category>💡 Electricity</Category>
+    <Description>electicit is gone</Description>
+    <AttachedFiles />
+    <UserId>Lungisani</UserId>
+    <SubmittedDate>2025-11-12T08:18:44.9006802+02:00</SubmittedDate>
+  </Issue>
+  <Issue>
+    <Id>11f533d2-f895-4a4a-9187-bbc162f950e6</Id>
+    <DateReported>2025-11-12T08:19:38.1990978+02:00</DateReported>
+    <Province>Western Cape</Province>
+    <City>Cape Town</City>
+    <Area>Sea Point</Area>
+    <Category>🚧 Road Damage</Category>
+    <Description>g</Description>
+    <AttachedFiles />
+    <UserId>Lungisani</UserId>
+    <SubmittedDate>2025-11-12T08:19:38.1990978+02:00</SubmittedDate>
+  </Issue>
+  <Issue>
+    <Id>fae8c57b-dedc-4070-92fb-0d5d15a480e5</Id>
+    <DateReported>2025-11-12T08:20:05.3409785+02:00</DateReported>
+    <Province>Free State</Province>
+    <City>Other</City>
+    <Area>Other</Area>
+    <Category>📌 Other</Category>
+    <Description>its boring</Description>
+    <AttachedFiles />
+    <UserId>Lungisani</UserId>
+    <SubmittedDate>2025-11-12T08:20:05.3409785+02:00</SubmittedDate>
+  </Issue>
+  <Issue>
+    <Id>6e2343e9-0b08-435f-8130-812f463c3fc8</Id>
+    <DateReported>2025-11-12T08:20:26.1005293+02:00</DateReported>
+    <Province>KwaZulu-Natal</Province>
+    <City>Pietermaritzburg</City>
+    <Area>Other</Area>
+    <Category>🚧 Road Damage</Category>
+    <Description>the servces are bad</Description>
+    <AttachedFiles />
+    <UserId>Lungisani</UserId>
+    <SubmittedDate>2025-11-12T08:20:26.1005293+02:00</SubmittedDate>
+  </Issue>
+  <Issue>
+    <Id>4a8a9c8a-4ecd-4822-92d2-1b430c38228d</Id>
+    <DateReported>2025-11-12T08:20:39.4659403+02:00</DateReported>
+    <Province>KwaZulu-Natal</Province>
+    <City>Pietermaritzburg</City>
+    <Area>Other</Area>
+    <Category>🚧 Road Damage</Category>
+    <Description>no waer</Description>
+    <AttachedFiles />
+    <UserId>Lungisani</UserId>
+    <SubmittedDate>2025-11-12T08:20:39.4659403+02:00</SubmittedDate>
+  </Issue>
+  <Issue>
+    <Id>5c6879b1-90ae-4077-bbeb-83cac657cf58</Id>
+    <DateReported>2025-11-12T08:21:02.3309663+02:00</DateReported>
+    <Province>Limpopo</Province>
+    <City>Other</City>
+    <Area>Other</Area>
+    <Category>💧 Water Supply</Category>
+    <Description>its bad</Description>
+    <AttachedFiles />
+    <UserId>Lungisani</UserId>
+    <SubmittedDate>2025-11-12T08:21:02.3309663+02:00</SubmittedDate>
+  </Issue>
+  <Issue>
+    <Id>52c7d9d8-3ab8-4b9b-8caa-368fdd8f3dec</Id>
+    <DateReported>2025-11-12T09:28:20.1426747+02:00</DateReported>
+    <Province>Not Specified</Province>
+    <City>Not Specified</City>
+    <Area>hare</Area>
+    <Category>Road Damage</Category>
+    <Description>gg</Description>
+    <AttachedFiles />
+    <UserId>Lungisani</UserId>
+    <SubmittedDate>2025-11-12T09:28:20.1426747+02:00</SubmittedDate>
+  </Issue>
+  <Issue>
+    <Id>3f72f48e-a48a-47e5-8817-ad5f6785881d</Id>
+    <DateReported>2025-11-12T09:29:36.1039612+02:00</DateReported>
+    <Province>Not Specified</Province>
+    <City>Not Specified</City>
+    <Area>hara</Area>
+    <Category>Waste Management</Category>
+    <Description>hdh</Description>
+    <AttachedFiles />
+    <UserId>Okuhle</UserId>
+    <SubmittedDate>2025-11-12T09:29:36.1039612+02:00</SubmittedDate>
+  </Issue>
+</ArrayOfIssue>

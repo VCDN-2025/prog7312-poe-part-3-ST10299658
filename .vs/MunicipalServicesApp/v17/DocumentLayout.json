@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\staffdashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|solutionrelative:staffdashboardform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|c:\\users\\lab_services_student\\prog7312-poe-part-3-st10407732\\servicerequeststatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|solutionrelative:servicerequeststatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\staffdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|solutionrelative:staffdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|c:\\users\\lab_services_student\\prog7312-poe-part-3-st10407732\\eventsandannouncementsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|solutionrelative:eventsandannouncementsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|c:\\users\\lab_services_student\\prog7312-poe-part-3-st10407732\\eventsandannouncementsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|solutionrelative:eventsandannouncementsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\servicerequeststatusform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|solutionrelative:servicerequeststatusform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\servicerequeststatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|solutionrelative:servicerequeststatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\eventsandannouncementsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|solutionrelative:eventsandannouncementsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|c:\\users\\lab_services_student\\prog7312-poe-part-3-st10407732\\reportissueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|solutionrelative:reportissueform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\models\\announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|solutionrelative:models\\announcement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\datastructures\\customqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|solutionrelative:datastructures\\customqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\datastructures\\custompriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|solutionrelative:datastructures\\custompriorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\staffdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|solutionrelative:staffdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\models\\issuelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|solutionrelative:models\\issuelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\myreportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|solutionrelative:myreportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|solutionrelative:models\\servicerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\datastructures\\avltree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|solutionrelative:datastructures\\avltree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\datastructures\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|solutionrelative:datastructures\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\datastructures\\eventprioritywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|solutionrelative:datastructures\\eventprioritywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\datastructures\\minheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|solutionrelative:datastructures\\minheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\datastructures\\graphtraversal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|solutionrelative:datastructures\\graphtraversal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\datastructures\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|solutionrelative:datastructures\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|solutionrelative:mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\myreportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|solutionrelative:myreportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\models\\issuenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|solutionrelative:models\\issuenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\eventsandannouncementsform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{08836DAC-B23F-418F-83FA-543C4967047D}|MunicipalServicesApp.csproj|solutionrelative:eventsandannouncementsform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 36,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceRequestStatusForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\ServiceRequestStatusForm.cs",
+              "RelativeDocumentMoniker": "ServiceRequestStatusForm.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\ServiceRequestStatusForm.cs [Design]",
+              "RelativeToolTip": "ServiceRequestStatusForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:05:13.299Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaffDashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\StaffDashboardForm.cs",
+              "RelativeDocumentMoniker": "StaffDashboardForm.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\StaffDashboardForm.cs",
+              "RelativeToolTip": "StaffDashboardForm.cs",
+              "ViewState": "AgIAAIMBAAAAAAAAAAAuwJgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T09:49:01.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventsAndAnnouncementsForm.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\EventsAndAnnouncementsForm.cs",
+              "RelativeDocumentMoniker": "EventsAndAnnouncementsForm.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\EventsAndAnnouncementsForm.cs",
+              "RelativeToolTip": "EventsAndAnnouncementsForm.cs",
+              "ViewState": "AgIAADsEAAAAAAAAAAAIwE0EAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:32:21.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaffDashboardForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\StaffDashboardForm.Designer.cs",
+              "RelativeDocumentMoniker": "StaffDashboardForm.Designer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\StaffDashboardForm.Designer.cs",
+              "RelativeToolTip": "StaffDashboardForm.Designer.cs",
+              "ViewState": "AgIAAGQCAAAAAAAAAAAIwHICAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T09:50:04.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventsAndAnnouncementsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\EventsAndAnnouncementsForm.cs",
+              "RelativeDocumentMoniker": "EventsAndAnnouncementsForm.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\EventsAndAnnouncementsForm.cs [Design]",
+              "RelativeToolTip": "EventsAndAnnouncementsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:59:08.185Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceRequestStatusForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\ServiceRequestStatusForm.Designer.cs",
+              "RelativeDocumentMoniker": "ServiceRequestStatusForm.Designer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\ServiceRequestStatusForm.Designer.cs",
+              "RelativeToolTip": "ServiceRequestStatusForm.Designer.cs",
+              "ViewState": "AgIAABABAAAAAAAAAAAmwCQBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T05:30:19.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceRequestStatusForm.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\ServiceRequestStatusForm.cs",
+              "RelativeDocumentMoniker": "ServiceRequestStatusForm.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\ServiceRequestStatusForm.cs",
+              "RelativeToolTip": "ServiceRequestStatusForm.cs",
+              "ViewState": "AgIAAEACAAAAAAAAAAAuwFUCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T05:29:49.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventsAndAnnouncementsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\EventsAndAnnouncementsForm.Designer.cs",
+              "RelativeDocumentMoniker": "EventsAndAnnouncementsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\EventsAndAnnouncementsForm.Designer.cs",
+              "RelativeToolTip": "EventsAndAnnouncementsForm.Designer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T05:31:30.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReportIssueForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\ReportIssueForm.cs",
+              "RelativeDocumentMoniker": "ReportIssueForm.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\ReportIssueForm.cs [Design]",
+              "RelativeToolTip": "ReportIssueForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:58:03.134Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAuwKQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T05:32:35.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Announcement.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\Models\\Announcement.cs",
+              "RelativeDocumentMoniker": "Models\\Announcement.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\Models\\Announcement.cs",
+              "RelativeToolTip": "Models\\Announcement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:35:33.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomPriorityQueue.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\DataStructures\\CustomPriorityQueue.cs",
+              "RelativeDocumentMoniker": "DataStructures\\CustomPriorityQueue.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\DataStructures\\CustomPriorityQueue.cs",
+              "RelativeToolTip": "DataStructures\\CustomPriorityQueue.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:26:51.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomQueue.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\DataStructures\\CustomQueue.cs",
+              "RelativeDocumentMoniker": "DataStructures\\CustomQueue.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\DataStructures\\CustomQueue.cs",
+              "RelativeToolTip": "DataStructures\\CustomQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:26:22.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StaffDashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\StaffDashboardForm.cs",
+              "RelativeDocumentMoniker": "StaffDashboardForm.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\StaffDashboardForm.cs [Design]",
+              "RelativeToolTip": "StaffDashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T09:48:59.77Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IssueLinkedList.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\Models\\IssueLinkedList.cs",
+              "RelativeDocumentMoniker": "Models\\IssueLinkedList.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\Models\\IssueLinkedList.cs",
+              "RelativeToolTip": "Models\\IssueLinkedList.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAcwIoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T08:27:05.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MyReportsForm.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\MyReportsForm.cs",
+              "RelativeDocumentMoniker": "MyReportsForm.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\MyReportsForm.cs",
+              "RelativeToolTip": "MyReportsForm.cs",
+              "ViewState": "AgIAABIBAAAAAAAAAAAwwCIBAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T08:33:38.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ServiceRequest.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\Models\\ServiceRequest.cs",
+              "RelativeDocumentMoniker": "Models\\ServiceRequest.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\Models\\ServiceRequest.cs",
+              "RelativeToolTip": "Models\\ServiceRequest.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAuwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T05:28:37.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AVLTree.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\DataStructures\\AVLTree.cs",
+              "RelativeDocumentMoniker": "DataStructures\\AVLTree.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\DataStructures\\AVLTree.cs",
+              "RelativeToolTip": "DataStructures\\AVLTree.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAuwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T05:25:15.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BinarySearchTree.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\DataStructures\\BinarySearchTree.cs",
+              "RelativeDocumentMoniker": "DataStructures\\BinarySearchTree.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\DataStructures\\BinarySearchTree.cs",
+              "RelativeToolTip": "DataStructures\\BinarySearchTree.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAwwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T05:23:42.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EventPriorityWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\DataStructures\\EventPriorityWrapper.cs",
+              "RelativeDocumentMoniker": "DataStructures\\EventPriorityWrapper.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\DataStructures\\EventPriorityWrapper.cs",
+              "RelativeToolTip": "DataStructures\\EventPriorityWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T05:49:57.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\DataStructures\\Graph.cs",
+              "RelativeDocumentMoniker": "DataStructures\\Graph.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\DataStructures\\Graph.cs",
+              "RelativeToolTip": "DataStructures\\Graph.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T05:27:38.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GraphTraversal.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\DataStructures\\GraphTraversal.cs",
+              "RelativeDocumentMoniker": "DataStructures\\GraphTraversal.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\DataStructures\\GraphTraversal.cs",
+              "RelativeToolTip": "DataStructures\\GraphTraversal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T05:28:08.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MinHeap.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\DataStructures\\MinHeap.cs",
+              "RelativeDocumentMoniker": "DataStructures\\MinHeap.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\DataStructures\\MinHeap.cs",
+              "RelativeToolTip": "DataStructures\\MinHeap.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T05:27:00.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainForm.resx",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\MainForm.resx",
+              "RelativeDocumentMoniker": "MainForm.resx",
+              "ToolTip": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\MainForm.resx",
+              "RelativeToolTip": "MainForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-11T05:46:12.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MyReportsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\MyReportsForm.cs",
+              "RelativeDocumentMoniker": "MyReportsForm.cs",
+              "ToolTip": "C:\\Users\\davyc\\source\\repos\\MunicipalServicesApp\\MyReportsForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\davyc\\source\\repos\\MunicipalServicesApp\\MyReportsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T08:57:53.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IssueNode.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\Models\\IssueNode.cs",
+              "RelativeDocumentMoniker": "Models\\IssueNode.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\Models\\IssueNode.cs",
+              "RelativeToolTip": "Models\\IssueNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T08:27:11.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EventsAndAnnouncementsForm.resx",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\EventsAndAnnouncementsForm.resx",
+              "RelativeDocumentMoniker": "EventsAndAnnouncementsForm.resx",
+              "ToolTip": "C:\\Users\\lab_services_student\\prog7312-poe-part-3-ST10407732\\EventsAndAnnouncementsForm.resx",
+              "RelativeToolTip": "EventsAndAnnouncementsForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-10-15T05:43:05.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
